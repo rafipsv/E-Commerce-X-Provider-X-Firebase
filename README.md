@@ -1,16 +1,38 @@
-# e_commerce
 
-A new Flutter project.
+# E-Commerce Application Design Using Flutter
 
-## Getting Started
+Here is my brand new flutter Project, which is E-Commerce Application with Provider and Firebase.
+Hope you guys will like this.
+Thanks for reading❤️ 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Roadmap
+- Dribble
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Dart
+- Firebase
+- Provider(State Management)
+- Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+### Login Page
+
+![App Screenshot](https://github.com/rafipsv/E-Commerce-X-Provider-X-Firebase/blob/master/assets/Screenshots/Login%20Page.png?raw=true)
+
+### Sign Up Page
+
+![App Screenshot](https://github.com/rafipsv/E-Commerce-X-Provider-X-Firebase/blob/master/assets/Screenshots/Sign%20Up%20Page.png?raw=true)
+
+### Home Page
+
+![App Screenshot](https://github.com/rafipsv/E-Commerce-X-Provider-X-Firebase/blob/master/assets/Screenshots/Home%20Page.png?raw=true)
+
+### Product Page
+
+![App Screenshot](https://github.com/rafipsv/E-Commerce-X-Provider-X-Firebase/blob/master/assets/Screenshots/Product%20Page.png?raw=true)
+
+
+
+
+
